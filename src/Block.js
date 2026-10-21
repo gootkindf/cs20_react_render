@@ -1,4 +1,3 @@
-// One block: bgcolor is a prop, the number is the child
 export default function Block({ bgcolor, children }) {
   return (
     <div

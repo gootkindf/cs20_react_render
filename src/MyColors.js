@@ -1,14 +1,14 @@
 // Objects: number value + hex background color
 const MyColors = [
-  { value: 7, color: "#000000" },
-  { value: 8, color: "#0b4fa8" },
-  { value: 9, color: "#c8102e" },
-  { value: 4, color: "#c8960c" },
-  { value: 5, color: "#000000" },
-  { value: 6, color: "#0b4fa8" },
-  { value: 1, color: "#c8102e" },
-  { value: 2, color: "#c8960c" },
-  { value: 3, color: "#000000" },
+  { value: 7, color: "black" },
+  { value: 8, color: "blue" },
+  { value: 9, color: "red" },
+  { value: 4, color: "gold" },
+  { value: 5, color: "black" },
+  { value: 6, color: "blue" },
+  { value: 1, color: "red" },
+  { value: 2, color: "gold" },
+  { value: 3, color: "black" },
 ];
 
 export default MyColors;
